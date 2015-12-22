@@ -366,4 +366,4 @@ if(last())
     soundStop(entity():id()+"dead")
     soundStop(entity():id()+"jump")
     soundStop(entity():id()+"step")
-}
+} 
